@@ -1,0 +1,8 @@
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\WindowsApplication1.exe
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\WindowsApplication1.pdb
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\bin\Debug\WindowsApplication1.exe
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\bin\Debug\WindowsApplication1.pdb
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\SudokuClass.Properties.Resources.resources
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\I_Projects\SudokuV3\obj\Debug\SudokuClass.Sudoku.resources

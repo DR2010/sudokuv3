@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SudokuClass.Form1.resources
+obj\Debug\Sudoku.csproj.GenerateResource.Cache
+bin\Debug\WindowsApplication1.exe
+bin\Debug\WindowsApplication1.pdb
+obj\Debug\SudokuClass.Properties.Resources.resources
+obj\Debug\WindowsApplication1.exe
+obj\Debug\WindowsApplication1.pdb
+bin\Release\WindowsApplication1.exe
+bin\Release\WindowsApplication1.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SudokuClass.Form1.resources
+obj\Release\SudokuClass.Properties.Resources.resources
+obj\Release\Sudoku.csproj.GenerateResource.Cache
+obj\Release\WindowsApplication1.exe
+obj\Release\WindowsApplication1.pdb
